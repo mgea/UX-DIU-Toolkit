@@ -6,7 +6,14 @@ Herramientas en HTML5 para creación de:
 
 Recursos en: https://github.com/mgea/UX-DIU-Toolkit
 
-V.1.0 Dic 2019
+V.1.0 Feb,12 2020
+
+
+Tareas: 
+
+ - Incluir información en ficheros personas.js / Journey.js
+ - Preparado para 2 plantillas
+ - Se debe añadir información del equipo
 
 ToDo: 
  - Configurar al movil
