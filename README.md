@@ -21,7 +21,7 @@ Alternativas:
 
 - editor online XTENSIO para crear Personas ficticias: https://xtensio.com/how-to-create-a-persona/
 - herramienta online: https://uxpressia.com/
-- plantilla:  http://www.burokoos.com/assets/uploads/2012/04/koos_customer_journey_mapping.pdf
+- plantillas: 
 
 
 Tareas: 
