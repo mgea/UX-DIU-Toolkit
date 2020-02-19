@@ -3,8 +3,9 @@
 Herramientas en HTML5 para creación de: 
     - 2 Personas 
     - 2 User Journey Map 
-
-Recursos en: https://github.com/mgea/UX-DIU-Toolkit
+    
+Version online: https://mgea.github.io/UX-DIU-Toolkit/index.html
+Repositorio en: https://github.com/mgea/UX-DIU-Toolkit
 
 V.1.0 Feb,12 2020
 
@@ -16,6 +17,11 @@ Incluir *dos mapas de experiencia del usuario* (User Journey Experience Map) uno
 https://uxpressia.com/templates/cjm-for-website-visitor 
 
 
+Alternativas:
+
+- editor online XTENSIO para crear Personas ficticias: https://xtensio.com/how-to-create-a-persona/
+- herramienta online: https://uxpressia.com/
+- plantilla:  http://www.burokoos.com/assets/uploads/2012/04/koos_customer_journey_mapping.pdf
 
 
 Tareas: 
