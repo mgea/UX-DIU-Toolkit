@@ -18,7 +18,8 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		
+		$scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Curso ="2019/20";
 		$scope.JourneyIndex = 0;
         
         $scope.Journeys = [

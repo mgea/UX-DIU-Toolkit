@@ -1,8 +1,8 @@
 /*******************************************/
 /*             PERSONA.JS                  */
 /*     Datos para PERSONA TEMPLATE         */   
-/*          [DIU] UX Toolkit               */                        
-/*          ver 1.0, 2019                  */
+/*          [DIU] UX Toolkit since 2019    */                        
+/*          ver 1.1, 02/2020               */
 /*******************************************/
     
 /****  README:       */
@@ -16,10 +16,12 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		
+        $scope.Grupo_ID ="DIU1.ABCDEF";
+        $scope.Curso ="2019/20";
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
 			{		
+                
                 
                 /*************************************/
                 /**** PRIMERA PERSONA          *******/
