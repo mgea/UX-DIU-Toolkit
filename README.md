@@ -7,8 +7,12 @@ Herramientas en HTML5 para creación de:
 Version online: https://mgea.github.io/UX-DIU-Toolkit/index.html
 Repositorio en: https://github.com/mgea/UX-DIU-Toolkit
 
+Modificaciones:
+
 V.1.0 Feb,12 2020
-V.1.1 Feb, 26 2020 (se incluye nombre de grupo en Persona.js y Journey.js)
+
+V.1.1 Feb, 26 2020 (se añade el nombre de grupo  que aparece en indexP.html y indexJ.html en plantillas Persona.js y Journey.js)
+
 
 
 Se deben crear *dos personas ficticias*. (http://www.uxforthemasses.com/personas/) que puedan ser usuarios interesados en las actividades que se ofertan en esa ciudad. Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/. Hay herramientas (fremium) para crear Personas ficticias: https://xtensio.com/how-to-create-a-persona/. Con https://randomuser.me podemos  obtener imágenes/features de personas aleatorias.
