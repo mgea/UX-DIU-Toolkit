@@ -1,12 +1,13 @@
 /*******************************************/
 /*             PERSONA.JS                  */
 /*     Datos para PERSONA TEMPLATE         */   
-/*          [DIU] UX Toolkit since 2019    */                        
-/*          ver 1.1, 02/2020               */
+/*          [DIU] UX Toolkit v1.0 2019    */                        
+/*          ver 1.1 26/Feb/2020            */
 /*******************************************/
     
 /****  README:       */
 /****  Modifica los datos para las Personas      */
+/****  v.1.1 Incluye nombre de tu grupo de prácticas (Grupo.ID), curso académico y enlace a github ***/
 /****  Las imagenes para  'Photo'  están en carpeta ./photos **/
 /****  Si se usan nuevas imágenes se deben añadir a esa carpeta **/
 /****  Los valores de rating están entre 1..5 **/
@@ -18,6 +19,8 @@ angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
         $scope.Grupo_ID ="DIU1.ABCDEF";
         $scope.Curso ="2019/20";
+        $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
+        
 		$scope.PersonaIndex = 0;
 		$scope.Personas = [
 			{		
@@ -30,7 +33,7 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Juan Lopez",
+				Name: "Pedro",
 				Photo: "man.png",
 				Quote: "Carpe Diem",
 				Age: 32,

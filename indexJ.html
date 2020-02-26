@@ -2,10 +2,13 @@
 <!--------    USER JOURNEY MAP  (indexJ.html)           -------------------> 
 <!--------    [DIU] UX Toolkit  (6/12/2019)                         -------> 
 <!--------  Crear Mapa de experiencia de usuario en 6 pasos (máximo)  ----->
-<!-------- Version 1.0 CC by M.Gea, R. Montes basado en @oliverCaine  ----->
+<!-------- Version 1.1 CC by M.Gea, R. Montes basado en @oliverCaine  ----->
 <!--- Usado para asignatura de Diseño de Interfaces de Usuario        ------> 
 <!---- ETSI Informática y Telecomunicación, Universidad de Granada    ------>
 <!--- http://utopolis.ugr.es/diu  https://github.com/mgea/UX-DIU-Toolkit --->  
+<!--- v1.1.incluidos datos de grupo en plantilas .js + enlace github   ----->
+<!---                                                                   ----->
+
 
 <!--- HOW TO. Se debe editar Journey.js con los datos de los usuarios ----->
 <!--- Pendiente: Read&Write Json / Fichas editables                   ----->
@@ -42,10 +45,10 @@
           <a href="indexP.html" class="imag_name">{{model.Name}} </a></span>
     </div>
    <!------- Cabecera de la ficha             ------------------->  
-    <h1>User Journey Map </h1>
+        <h1>User Journey Map  </h1>
 
    <!------- TEMPLATE: INtroducir nombre del grupo y fecha creación ------->
-    <h1> <b> CCBY </b> {{Grupo_ID}} <b> _curso </b>{{Curso}}   </h1>
+        <h2> <b> CCBY </b> {{Grupo_ID}}     _{{Curso}} <i class="fa fa-github"></i> <a href={{Github_ID}}>  <b> {{Github_ID}}</b></a> </h2>
 
   <p class="text-center"></p>
         <p>&nbsp;&nbsp;</p>
@@ -121,7 +124,7 @@
 </div>
 
 <!------- Footer  -------------------> 
- <div> UX DIU Toolkit 2019 v1.0 - Basado en <a href="https://github.com/olivercaine/user-persona"> oliverCaine </a>   &nbsp;&nbsp; References: <a href="https://theuxreview.co.uk/user-journeys-beginners-guide/" target="_blank"> User Journeys–The Beginner’s Guide </a> &nbsp;&nbsp; Alternative Tools:<a href="https://help.uxpressia.com/customer-journey-map-tool/customer-journey-map-overview" target="_blank"> UXPressia</a>    Github: <a href="https://github.com/mgea/UX-DIU-Toolkit" target="_blank"> UX DIU Toolkit</a> <a href="https://lsi.ugr.es/lsi/node/969" target="_blank"> ETSIIT-Universidad de Granada </a></div>
+ <div> UX DIU Toolkit 2019 v1.1 - Basado en <a href="https://github.com/olivercaine/user-persona"> oliverCaine </a>   &nbsp;&nbsp; References: <a href="https://theuxreview.co.uk/user-journeys-beginners-guide/" target="_blank"> User Journeys–The Beginner’s Guide </a> &nbsp;&nbsp; Alternative Tools:<a href="https://help.uxpressia.com/customer-journey-map-tool/customer-journey-map-overview" target="_blank"> UXPressia</a>    Github: <a href="https://github.com/mgea/UX-DIU-Toolkit" target="_blank"> UX DIU Toolkit</a> <a href="https://lsi.ugr.es/lsi/node/969" target="_blank"> ETSIIT-Universidad de Granada </a></div>
         
 		<script src="angular.js"></script>
         <!---- TEMPLATE: modificar los datos del fichero journey.js --->

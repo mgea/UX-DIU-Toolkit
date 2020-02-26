@@ -1,5 +1,12 @@
+/******************************************/
+/*** STYLES.CSS de UX-DIU-TOOLKIT v.1.1 ***/
+/***                                     **
+/*** v1.1 Modificado boton de JourneyMap **/
+/******************************************/
+
+
 * {
-	font-family: 'Indie Flower', cursive;
+	font-family: 'Indie Flower';
 }
 
 body {
@@ -18,8 +25,10 @@ h2 {
     font-family: 'lato';
     font-size: 1.2rem;
 	text-align: center;
-    text-decoration: underline;
+   /* text-decoration: underline;  */
 }
+
+
 
 img {
 	display: block;
@@ -31,6 +40,10 @@ ul {
 	padding-left: 1.2em;
 }
 
+.titulos {
+    font-family: 'lato';
+    
+}
 .text-center {
     
 	text-align: center;
@@ -51,6 +64,25 @@ ul {
 	position: absolute;
 	right: 20px;
 	top: 20px;
+    
+}
+
+.top-right-button-journey {
+    /*** posición (absoluta) del Journey Map Button **/
+	position: absolute;
+    /* font-family: 'roboto'; */
+	right: 30px;
+	top: 50px;
+    font: bold 11px Arial;
+  text-decoration: none;
+  background-color: #ffcccc;
+  color: #4D4D4D;
+ padding: 3px 10px 3px 10px;
+    border-radius: 10px;
+  border-top: 2px solid #CCCCCC;
+  border-right: 2px solid #333333;
+  border-bottom: 2px solid #333333;
+  border-left: 2px solid #CCCCCC;
     
 }
 
