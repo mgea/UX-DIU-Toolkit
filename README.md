@@ -24,8 +24,11 @@ Tareas:
 
  - Incluir información en ficheros personas.js / Journey.js
  - Preparado para 2 plantillas
+
+Modificaciones:
+
+ - (v1.1) Feb, 26 2020 (se añade el nombre de grupo que aparece en indexP.html y indexJ.html en plantillas Persona.js y Journey.js) 
  - (v1.1) mejorada la apariencia de botones y navegación entre fichas
- - (v1.1) Se ha anñadido la inforación del equipo y del curso en el fichero .js
 
 
 
