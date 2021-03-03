@@ -6,6 +6,9 @@ Herramientas en HTML5 para creación de:
 
 Recursos en: https://github.com/mgea/UX-DIU-Toolkit
 
+
+Online web: https://mgea.github.io/UX-DIU-Toolkit/index.html
+
 V.1.1  Feb,12 2021
 
 
