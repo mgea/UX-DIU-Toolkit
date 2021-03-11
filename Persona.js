@@ -33,36 +33,36 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "Pedro",
+				Name: "Pablo",
 				Photo: "man.png",
-				Quote: "Carpe Diem",
-				Age: 32,
-				Occupation: "Comercial en empresa de automocion",
-				Family: "Con pareja desde hace 1 año",
-				Location: "Granada (Huetor Vega)",
-				Character: "Le gusta disfrutar del tiempo",
+				Quote: "Invertir en viajar es invertir en uno mismo",
+				Age: 45,
+				Occupation: "Profesor de educación infantil",
+				Family: "Casado desde hace 6 años y con un hijo",
+				Location: "Barcelona",
+				Character: "Le gusta aprender de cualquier experiencia",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 7 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 8 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 7 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas", "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Poder viajar más con su familia", "Mudarse a otra ciudad"],
+				Frustrations: ["Es buen padre pero le gustaría poder dedicarle más tiempo a su hijo", "Le gustaria poder leer más libros de investigación"],
+				Bio: "Es de Madrid y se mudó a Barcelona para estudiar la carrera. Cuando la acabó opositó y conoció a su mujer actual. Cuando aprobó las oposiciones decidieron casarse y al año siguiente tener un hijo",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "TIC/Internet", Value: 3 },
+					{ Name: "Movil", Value: 6 },
+					{ Name: "RRSS", Value: 2 },
+					{ Name: "Software", Value: 1 }
 					
 				], 
-                Contextos: "LLeva un tiempo preocupado y quiere desconectar Le gustaría dar una sorpresa a sus amigos para las vacaciones",  
+                Contextos: "Siempre le ha gustado mucho viajar pero ahora su situación ha cambiado debido a su hijo, busca experiencias que puedan adaptarse a ello. Por lo general, se fia bastante de las recomendaciones de personas de confianza",  
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional", Value: 5 },
+					{ Name: "Publicidad Tradicional", Value: 2 },
 					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Recomendaciones & sugerencias", Value: 8 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 9 }
 				]
 			},
 			{	
