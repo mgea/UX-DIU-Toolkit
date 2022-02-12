@@ -2,7 +2,7 @@
 /*             JOURNEY.JS                  */
 /*     Datos para USER JOURNEY MAP         */   
 /*          [DIU] UX Toolkit v1.0 2019     */                        
-/*          ver 1.1 26/Feb/2020            */
+/*          ver 1.1 26/Feb/2022            */
 /*******************************************/
     
 /****  README:       */
@@ -20,7 +20,7 @@
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
 		$scope.Grupo_ID ="DIU1.ABCDEF";
-        $scope.Curso ="2020/21";
+        $scope.Curso ="2021/22";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
 		$scope.JourneyIndex = 0;
